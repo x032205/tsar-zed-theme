@@ -1,0 +1,7 @@
+id = "tsar"
+name = "TSAR Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["x <x032205@gmail.com>"]
+description = "Minimal and modern dark theme"
+repository = "https://github.com/x032205/tsar-zed-theme"
