@@ -105,7 +105,7 @@
         "deleted.background": null,
         "deleted.border": null,
         "error": null,
-        "error.background": "#46190C50",
+        "error.background": "#46190CF0",
         "error.border": "#802207",
         "hidden": "#9E9E9E",
         "hidden.background": null,
@@ -135,7 +135,7 @@
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
-        "warning.background": "#3A310E50",
+        "warning.background": "#3A310EF0",
         "warning.border": "#7B6508",
         "players": [],
         "syntax": {
