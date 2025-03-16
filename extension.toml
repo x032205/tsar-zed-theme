@@ -1,6 +1,6 @@
 id = "tsar"
 name = "TSAR Theme"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["x <x032205@gmail.com>"]
 description = "Minimal and modern semi-transparent dark theme."
